@@ -1,6 +1,6 @@
 # Uriel Campos - Front End Developer
 
-Welcome to my GitHub profile! I'm a junior Front End Developer with expertise in front-end development and a passion for creating innovative web applications. I have a solid background in Aprendé Programando (HTML, CSS, and JavaScript Front end 2021-2023) and I'm currently pursuing the Full Stack Development Career at Henry Bootcamp (July 2023-Present).
+Welcome to my GitHub profile! I'm a junior Front End Developer with passion for creating innovative web applications. I have a solid background in Aprendé Programando (HTML, CSS, and JavaScript Front end 2021-2023) and I'm currently pursuing the Full Stack Development Career at Henry Bootcamp (July 2023-Present).
 
 ## Skills
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a junior Front End Developer with expertise in
 
 ## Languages
 
-- English: B2 - Intermediate
+- English: Intermediate
 - Spanish: Native
 
 ## Contact
