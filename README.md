@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a junior Front End Developer with passion for 
 - Front-end Development: HTML, CSS, JavaScript, React.js
 - CSS Frameworks: Bootstrap
 - Version Control: Git
-- Agile Methodologies
 - Data Structures and Algorithms
   
 ## Education
