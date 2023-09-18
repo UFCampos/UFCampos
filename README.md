@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a junior Front End Developer with passion for 
 
 ## Skills
 
-- Front-end Development: HTML, CSS, JavaScript, React.js
-- CSS Frameworks: Bootstrap
-- Back-end Development: Node.js, Sequelize, PostgreSQL
+- Front-end Development: HTML, CSS, JavaScript, React.js, Next.js, Svelte
+- CSS Frameworks: Bootstrap, Tailwind
+- Back-end Development: Node.js, Sequelize, PostgreSQL, Firebase, Prisma 
 - Version Control: Git
 - Data Structures and Algorithms
   
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a junior Front End Developer with passion for 
 
 ## Languages
 
-- English: Intermediate
+- English: Fluent C1
 - Spanish: Native
 
 ## Contact
