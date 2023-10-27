@@ -23,6 +23,6 @@ Welcome to my GitHub profile! I'm a junior Front End Developer with passion for 
 
 ## Contact
 
-You can reach me via email at urielcampos448@gmail.com or connect with me on (https://www.linkedin.com/in/uriel-campos-213296251/).
+You can reach me via email at urielcampos448@gmail.com or connect with me on (www.linkedin.com/in/uriel-campos-dev).
 
 Feel free to explore my repositories and projects. I'm always excited to collaborate on new and interesting ventures. Let's build something amazing together!
